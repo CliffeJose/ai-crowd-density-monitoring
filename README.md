@@ -18,18 +18,6 @@ using intelligent zone-based monitoring.
 - OpenCV
 - NumPy
 
-## Project Structure
-crowd_project/
-├── src/
-│ ├── main.py
-│ ├── plot_data.py
-│ └── predict_crowd.py
-├── Data/ (ignored in GitHub)
-├── Videos/ (ignored in GitHub)
-├── Outputs/
-└── README.md
-
-
 ## How to Run
 1. Place a crowd video inside the `Videos` folder
 2. Update video path in `main.py` if needed
