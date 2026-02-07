@@ -21,7 +21,9 @@ using intelligent zone-based monitoring.
 ## Project Structure
 crowd_project/
 ├── src/
-│ └── main.py
+│ ├── main.py
+│ ├── plot_data.py
+│ └── predict_crowd.py
 ├── Data/ (ignored in GitHub)
 ├── Videos/ (ignored in GitHub)
 ├── Outputs/
