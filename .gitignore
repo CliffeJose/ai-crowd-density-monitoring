@@ -1,0 +1,7 @@
+Data/
+Videos/
+Outputs/
+__pycache__/
+*.csv
+*.mp4
+*.pt
